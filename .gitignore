@@ -173,3 +173,4 @@ venv.bak/
 .idea/modules.xml
 .idea/other.xml
 .idea/vcs.xml
+/src/historical submissions/
