@@ -23,5 +23,10 @@ The training dataset consists of 21186 records and the test dataset consists of 
 
 ### Links
 
-* []()
+* [Report](report/012457289.pdf)
+* [Jupyter Notebook](src/image_classifier_pr2.ipynb)
+
+### F1-Score = 0.8502
+
+
 
