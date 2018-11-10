@@ -26,6 +26,10 @@ The training dataset consists of 21186 records and the test dataset consists of 
 * [Report](report/012457289.pdf)
 * [Jupyter Notebook](src/image_classifier_pr2.ipynb)
 
+#### Classifier - ExtraTrees
+
+#### Feature Selection/Dimensionality Reduction - SelectKBest with Chi2 stats
+
 ### F1-Score = 0.8502
 
 
